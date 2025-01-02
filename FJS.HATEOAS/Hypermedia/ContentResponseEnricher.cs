@@ -15,7 +15,8 @@ namespace Erudio.HATEOAS.Hypermedia
         }
         public virtual bool CanEnrich(Type? contentType)
         {
-            return contentType == typeof(T) || contentType == typeof(List<T>) || contentType == typeof(PagedSearchVO<T>);
+            return contentType == typeof(T) || contentType == typeof(List<T>) || 
+                contentType == typeof(PagedSearchVO<T>);
         }
 
         protected abstract Task EnrichModel(T content, IUrlHelper urlHelper);
@@ -45,15 +46,15 @@ namespace Erudio.HATEOAS.Hypermedia
                         EnrichModel(element, urlHelper);
                     });
                 }
-                else if (okObjectResult.Value is PagedSearchVO<T> pagedSearch)
+                else if (okObjectResult?.Value is PagedSearchVO<T> pagedSearch)
                 {
-                    Parallel.ForEach(pagedSearch.List?.ToList(), (element) =>
+                    Parallel.ForEach(pagedSearch.List.ToList(), (element) =>
                     {
                         EnrichModel(element, urlHelper);
                     });
                 }
             }
-            await Task.FromResult<object>(null);
+            _ = await Task.FromResult<object>(null);
         }
     }
 }

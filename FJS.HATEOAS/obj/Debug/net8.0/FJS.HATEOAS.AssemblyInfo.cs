@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is a smart library to implements HATEOAS docummentation in your RESTFul API\'" +
     "s")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.0.101.4")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.0.101.4+5ba9286209ff7fa3a142e7918fc10f3079a801db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.0.101.4+c8e903ff6bc6f512eddb438e96d9e8b415e2d8ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("FJS.HATEOAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FJS.HATEOAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.0.101.4")]

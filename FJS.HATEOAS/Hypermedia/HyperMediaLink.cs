@@ -4,9 +4,9 @@ namespace Erudio.HATEOAS.Hypermedia
 {
     public class HyperMediaLink
     {
-        public string Rel { get; set; }
+        public string? Rel { get; set; }
         
-        private string href;
+        private string? href;
         public string Href
         {
             get
@@ -23,7 +23,7 @@ namespace Erudio.HATEOAS.Hypermedia
                 href = value;
             }
         }
-        public string Type { get; set; }
+        public string? Type { get; set; }
         public string? Action { get; set; }
     }
 }

@@ -13,7 +13,7 @@ namespace Erudio.HATEOAS.Hypermedia
         {
 
         }
-        public virtual bool CanEnrich(Type contentType)
+        public virtual bool CanEnrich(Type? contentType)
         {
             return contentType == typeof(T) || contentType == typeof(List<T>) || contentType == typeof(PagedSearchVO<T>);
         }
@@ -24,7 +24,7 @@ namespace Erudio.HATEOAS.Hypermedia
         {
             if (response.Result is OkObjectResult okObjectResult)
             {
-                return CanEnrich(okObjectResult?.Value.GetType());
+                return CanEnrich(okObjectResult.Value?.GetType());
             }
             return false;
         }
@@ -47,7 +47,7 @@ namespace Erudio.HATEOAS.Hypermedia
                 }
                 else if (okObjectResult.Value is PagedSearchVO<T> pagedSearch)
                 {
-                    Parallel.ForEach(pagedSearch.List.ToList(), (element) =>
+                    Parallel.ForEach(pagedSearch.List?.ToList(), (element) =>
                     {
                         EnrichModel(element, urlHelper);
                     });

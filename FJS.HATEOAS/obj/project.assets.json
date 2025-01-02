@@ -12,7 +12,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "8.0.101.6",
+    "version": "8.0.101.7",
     "restore": {
       "projectUniqueName": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\FJS.HATEOAS.csproj",
       "projectName": "FJS.HATEOAS",
@@ -79,5 +79,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

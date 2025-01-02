@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FJS.HATEOAS/8.0.101.4": {
+        "runtime": {
+          "FJS.HATEOAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FJS.HATEOAS/8.0.101.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "p/GJ8e/5L8w=",
+  "dgSpecHash": "tq9i9/wif9o=",
   "success": true,
   "projectFilePath": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\FJS.HATEOAS.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

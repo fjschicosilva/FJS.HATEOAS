@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FJS.HATEOAS</id>
+    <version>8.0.101.4</version>
+    <authors>FJS.HATEOAS</authors>
+    <icon>fjs-hateoas-128x128.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/fjscihcosilva/FJS.HATEOAS/</projectUrl>
+    <description>This is a smart library to implements HATEOAS docummentation in your RESTFul API's</description>
+    <copyright>Copyright © Erudio Training - Consultoria e Treinamentos em TI LTDA 2024</copyright>
+    <tags>HATEOAS</tags>
+    <repository type="git" url="https://github.com/fjscihcosilva/FJS.HATEOAS/" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\bin\release\net8.0\FJS.HATEOAS.dll" target="lib\net8.0\FJS.HATEOAS.dll" />
+    <file src="D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\docs\README.md" target="\README.md" />
+    <file src="D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\icons\fjs-hateoas-128x128.png" target="\fjs-hateoas-128x128.png" />
+  </files>
+</package>

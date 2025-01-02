@@ -1,21 +1,21 @@
-# Erudio.HATEOAS
+# FJS.HATEOAS
 
-[![NuGet](https://img.shields.io/nuget/v/Erudio.HATEOAS.svg)](https://www.nuget.org/packages/Erudio.HATEOAS)
+[![NuGet](https://img.shields.io/nuget/v/FJS.HATEOAS.svg)](https://www.nuget.org/packages/FJS.HATEOAS)
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
-[![GitHub repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/leandrocgsi/Erudio.HATEOAS)
-![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/Erudio.HATEOAS)
-![Forks](https://img.shields.io/github/forks/leandrocgsi/Erudio.HATEOAS)
-![Stars](https://img.shields.io/github/stars/leandrocgsi/Erudio.HATEOAS)
-[![.NET 8 Continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/leandrocgsi/Erudio.HATEOAS/actions/workflows/continous-integration-nuget.yaml/badge.svg)](https://github.com/leandrocgsi/Erudio.HATEOAS/actions/workflows/continous-integration-nuget.yaml)
+[![GitHub repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/fjscihcosilva/FJS.HATEOAS)
+![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/FJS.HATEOAS)
+![Forks](https://img.shields.io/github/forks/leandrocgsi/FJS.HATEOAS)
+![Stars](https://img.shields.io/github/stars/leandrocgsi/FJS.HATEOAS)
+[![.NET 8 Continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/fjscihcosilva/FJS.HATEOAS/actions/workflows/continous-integration-nuget.yaml/badge.svg)](https://github.com/fjscihcosilva/FJS.HATEOAS/actions/workflows/continous-integration-nuget.yaml)
 
 This is a smart library to implements HATEOAS pattern in your RESTFul API's, implemented based in [this project](https://github.com/SotirisH/HyperMedia).
 
 > ## How to use
 
->### 1 - Import Erudio.HATEOAS to your projetct
+>### 1 - Import FJS.HATEOAS to your projetct
 #### Import with command line
 ```bash
-Install-Package Erudio.HATEOAS -Version 8.0.101.5
+Install-Package FJS.HATEOAS -Version 8.0.101.5
 ```
 
 >### 2 - Implements *ISupportsHyperMedia* in your exposed object.

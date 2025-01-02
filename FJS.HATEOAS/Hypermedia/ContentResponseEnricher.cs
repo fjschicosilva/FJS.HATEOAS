@@ -24,7 +24,7 @@ namespace Erudio.HATEOAS.Hypermedia
         {
             if (response.Result is OkObjectResult okObjectResult)
             {
-                return CanEnrich(okObjectResult.Value.GetType());
+                return CanEnrich(okObjectResult?.Value.GetType());
             }
             return false;
         }

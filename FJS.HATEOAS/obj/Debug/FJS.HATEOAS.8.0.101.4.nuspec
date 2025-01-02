@@ -10,7 +10,7 @@
     <description>This is a smart library to implements HATEOAS docummentation in your RESTFul API's</description>
     <copyright>Copyright © Erudio Training - Consultoria e Treinamentos em TI LTDA 2024</copyright>
     <tags>HATEOAS</tags>
-    <repository type="git" url="https://github.com/fjscihcosilva/FJS.HATEOAS/" commit="c8e903ff6bc6f512eddb438e96d9e8b415e2d8ba" />
+    <repository type="git" url="https://github.com/fjscihcosilva/FJS.HATEOAS/" commit="6a52ba9c8720587b4418d31254e44e11c33c2889" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

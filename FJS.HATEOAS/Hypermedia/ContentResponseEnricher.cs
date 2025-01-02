@@ -48,13 +48,17 @@ namespace Erudio.HATEOAS.Hypermedia
                 }
                 else if (okObjectResult?.Value is PagedSearchVO<T> pagedSearch)
                 {
-                    Parallel.ForEach(pagedSearch.List.ToList(), (element) =>
+                    var pS = pagedSearch != null ? pagedSearch.List : null;
+                    if (pS != null)
                     {
-                        EnrichModel(element, urlHelper);
-                    });
+                        Parallel.ForEach(pS.ToList(), (element) =>
+                        {
+                            EnrichModel(element, urlHelper);
+                        });
+                    }
                 }
             }
-            _ = await Task.FromResult<object>(null);
+            await Task.FromResult<object>(new object());
         }
     }
 }

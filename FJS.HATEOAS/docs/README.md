@@ -4,8 +4,8 @@
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/fjscihcosilva/FJS.HATEOAS)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/FJS.HATEOAS)
-![Forks](https://img.shields.io/github/forks/leandrocgsi/FJS.HATEOAS)
-![Stars](https://img.shields.io/github/stars/leandrocgsi/FJS.HATEOAS)
+![Forks](https://img.shields.io/github/forks/fjscihcosilva/FJS.HATEOAS)
+![Stars](https://img.shields.io/github/stars/fjscihcosilva/FJS.HATEOAS)
 [![.NET 8 Continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/fjscihcosilva/FJS.HATEOAS/actions/workflows/continous-integration-nuget.yaml/badge.svg)](https://github.com/fjscihcosilva/FJS.HATEOAS/actions/workflows/continous-integration-nuget.yaml)
 
 This is a smart library to implements HATEOAS pattern in your RESTFul API's, implemented based in [this project](https://github.com/SotirisH/HyperMedia).

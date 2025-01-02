@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "FJS.HATEOAS/8.0.101.5": {
+      "FJS.HATEOAS/8.0.101.6": {
         "runtime": {
           "FJS.HATEOAS.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "FJS.HATEOAS/8.0.101.5": {
+    "FJS.HATEOAS/8.0.101.6": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

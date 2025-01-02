@@ -11,7 +11,7 @@
     "/home/runner/.nuget/packages/": {}
   },
   "project": {
-    "version": "8.0.101.5",
+    "version": "8.0.101.6",
     "restore": {
       "projectUniqueName": "/home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS.csproj",
       "projectName": "FJS.HATEOAS",

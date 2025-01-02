@@ -10,7 +10,7 @@
 		<RepositoryUrl>https://github.com/fjscihcosilva/FJS.HATEOAS/</RepositoryUrl>
 		<PackageTags>HATEOAS</PackageTags>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<Version>8.0.101.6</Version>
+		<Version>8.0.101.7</Version>
 		<PackageIcon>fjs-hateoas-128x128.png</PackageIcon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>

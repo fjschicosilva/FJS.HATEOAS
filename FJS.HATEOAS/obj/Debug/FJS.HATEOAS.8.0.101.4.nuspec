@@ -10,7 +10,7 @@
     <description>This is a smart library to implements HATEOAS docummentation in your RESTFul API's</description>
     <copyright>Copyright © Erudio Training - Consultoria e Treinamentos em TI LTDA 2024</copyright>
     <tags>HATEOAS</tags>
-    <repository type="git" url="https://github.com/fjscihcosilva/FJS.HATEOAS/" commit="6a52ba9c8720587b4418d31254e44e11c33c2889" />
+    <repository type="git" url="https://github.com/fjscihcosilva/FJS.HATEOAS/" commit="7c98b3e15a463cd79755d44258921918a09b012a" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>
@@ -21,8 +21,8 @@
     </frameworkReferences>
   </metadata>
   <files>
-    <file src="D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\bin\Debug\net8.0\FJS.HATEOAS.dll" target="lib\net8.0\FJS.HATEOAS.dll" />
-    <file src="D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\docs\README.md" target="\README.md" />
-    <file src="D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\icons\fjs-hateoas-128x128.png" target="\fjs-hateoas-128x128.png" />
+    <file src="/home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/bin/Debug/net8.0/FJS.HATEOAS.dll" target="lib/net8.0/FJS.HATEOAS.dll" />
+    <file src="/home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/docs/README.md" target="/README.md" />
+    <file src="/home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/icons/fjs-hateoas-128x128.png" target="/fjs-hateoas-128x128.png" />
   </files>
 </package>

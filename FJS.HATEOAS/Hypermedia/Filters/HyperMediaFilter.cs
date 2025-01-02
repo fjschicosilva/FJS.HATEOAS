@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Erudio.HATEOAS.Hypermedia.Filters
+namespace FJS.HATEOAS.Hypermedia.Filters
 {
     public class HyperMediaFilter : ResultFilterAttribute
     {

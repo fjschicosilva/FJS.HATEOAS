@@ -1,4 +1,4 @@
-﻿namespace Erudio.HATEOAS.Hypermedia.Constants
+﻿namespace FJS.HATEOAS.Hypermedia.Constants
 {
     public sealed class RelationType
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Erudio.HATEOAS.Hypermedia.Abstract
+namespace FJS.HATEOAS.Hypermedia.Abstract
 {
     public interface ISupportsHyperMedia
     {

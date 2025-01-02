@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Erudio.HATEOAS.Hypermedia
+namespace FJS.HATEOAS.Hypermedia
 {
     public class HyperMediaLink
     {

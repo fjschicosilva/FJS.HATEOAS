@@ -1,7 +1,7 @@
-﻿using Erudio.HATEOAS.Hypermedia.Abstract;
+﻿using FJS.HATEOAS.Hypermedia.Abstract;
 using System.Collections.Generic;
 
-namespace Erudio.HATEOAS.Hypermedia.Filters
+namespace FJS.HATEOAS.Hypermedia.Filters
 {
     public class HyperMediaFilterOptions
     {

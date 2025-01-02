@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|d:\\estudos\\curso1udemy\\code\\fjs.hateoas\\fjs.hateoas\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|solutionrelative:fjs.hateoas\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|d:\\estudos\\curso1udemy\\code\\fjs.hateoas\\fjs.hateoas\\fjs.hateoas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|solutionrelative:fjs.hateoas\\fjs.hateoas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|d:\\estudos\\curso1udemy\\code\\fjs.hateoas\\fjs.hateoas\\docs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|solutionrelative:fjs.hateoas\\docs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|d:\\estudos\\curso1udemy\\code\\fjs.hateoas\\fjs.hateoas\\hypermedia\\utils\\pagedsearchvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|solutionrelative:fjs.hateoas\\hypermedia\\utils\\pagedsearchvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|d:\\estudos\\curso1udemy\\code\\fjs.hateoas\\fjs.hateoas\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|solutionrelative:fjs.hateoas\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2EB11B9-16E3-4AC5-8F85-839712EBCDE6}|FJS.HATEOAS\\FJS.HATEOAS.csproj|d:\\estudos\\curso1udemy\\code\\fjs.hateoas\\fjs.hateoas\\hypermedia\\hypermedialink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FJS.HATEOAS",
+              "DocumentMoniker": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\FJS.HATEOAS.csproj",
+              "RelativeDocumentMoniker": "FJS.HATEOAS\\FJS.HATEOAS.csproj",
+              "ToolTip": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\FJS.HATEOAS.csproj",
+              "RelativeToolTip": "FJS.HATEOAS\\FJS.HATEOAS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T15:21:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\docs\\README.md",
+              "RelativeDocumentMoniker": "FJS.HATEOAS\\docs\\README.md",
+              "ToolTip": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\docs\\README.md",
+              "RelativeToolTip": "FJS.HATEOAS\\docs\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-02T15:19:39.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContentResponseEnricher.cs",
               "DocumentMoniker": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\Hypermedia\\ContentResponseEnricher.cs",
               "RelativeDocumentMoniker": "FJS.HATEOAS\\Hypermedia\\ContentResponseEnricher.cs",
               "ToolTip": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\Hypermedia\\ContentResponseEnricher.cs",
               "RelativeToolTip": "FJS.HATEOAS\\Hypermedia\\ContentResponseEnricher.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwDUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T13:11:08.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PagedSearchVO.cs",
               "DocumentMoniker": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\Hypermedia\\Utils\\PagedSearchVO.cs",
               "RelativeDocumentMoniker": "FJS.HATEOAS\\Hypermedia\\Utils\\PagedSearchVO.cs",
@@ -55,11 +89,12 @@
               "RelativeToolTip": "FJS.HATEOAS\\Hypermedia\\Utils\\PagedSearchVO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:50:19.826Z"
+              "WhenOpened": "2025-01-02T12:50:19.826Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HyperMediaLink.cs",
               "DocumentMoniker": "D:\\Estudos\\Curso1Udemy\\Code\\FJS.HATEOAS\\FJS.HATEOAS\\Hypermedia\\HyperMediaLink.cs",
               "RelativeDocumentMoniker": "FJS.HATEOAS\\Hypermedia\\HyperMediaLink.cs",
@@ -67,7 +102,8 @@
               "RelativeToolTip": "FJS.HATEOAS\\Hypermedia\\HyperMediaLink.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswBkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:32:09.796Z"
+              "WhenOpened": "2025-01-02T12:32:09.796Z",
+              "EditorCaption": ""
             }
           ]
         }

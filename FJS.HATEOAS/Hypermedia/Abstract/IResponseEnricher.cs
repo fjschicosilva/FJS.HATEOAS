@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
 using System.Threading.Tasks;
 
-namespace Erudio.HATEOAS.Hypermedia.Abstract
+namespace FJS.HATEOAS.Hypermedia.Abstract
 {
     public interface IResponseEnricher
     {

@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.Routing;
-using Erudio.HATEOAS.Hypermedia.Abstract;
-using Erudio.HATEOAS.Hypermedia.Utils;
+using FJS.HATEOAS.Hypermedia.Abstract;
+using FJS.HATEOAS.Hypermedia.Utils;
 using System.Collections.Concurrent;
 
-namespace Erudio.HATEOAS.Hypermedia
+namespace FJS.HATEOAS.Hypermedia
 {
     public abstract class ContentResponseEnricher<T> : IResponseEnricher where T : ISupportsHyperMedia
     {

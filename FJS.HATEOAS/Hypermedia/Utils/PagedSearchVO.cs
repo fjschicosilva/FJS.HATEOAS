@@ -1,10 +1,10 @@
-﻿using Erudio.HATEOAS.Hypermedia.Abstract;
+﻿using FJS.HATEOAS.Hypermedia.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Erudio.HATEOAS.Hypermedia.Utils
+namespace FJS.HATEOAS.Hypermedia.Utils
 {
     public class PagedSearchVO<T> where T : ISupportsHyperMedia
     {

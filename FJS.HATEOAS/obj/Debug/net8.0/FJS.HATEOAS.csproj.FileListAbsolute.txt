@@ -22,15 +22,3 @@ D:/Estudos/Curso1Udemy/Code/FJS.HATEOAS/FJS.HATEOAS/obj/Debug/net8.0/ref/FJS.HAT
 /home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/obj/Debug/net8.0/refint/FJS.HATEOAS.dll
 /home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/obj/Debug/net8.0/FJS.HATEOAS.pdb
 /home/runner/work/FJS.HATEOAS/FJS.HATEOAS/FJS.HATEOAS/obj/Debug/net8.0/ref/FJS.HATEOAS.dll
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\bin\Debug\net8.0\FJS.HATEOAS.deps.json
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\bin\Debug\net8.0\FJS.HATEOAS.dll
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\bin\Debug\net8.0\FJS.HATEOAS.pdb
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.AssemblyInfoInputs.cache
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.AssemblyInfo.cs
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.csproj.CoreCompileInputs.cache
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.sourcelink.json
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.dll
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\refint\FJS.HATEOAS.dll
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\FJS.HATEOAS.pdb
-D:\Estudos\Curso1Udemy\Code\FJS.HATEOAS\FJS.HATEOAS\obj\Debug\net8.0\ref\FJS.HATEOAS.dll
